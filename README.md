@@ -107,5 +107,5 @@ This project implements a **Carpooling System** that leverages the **K-Nearest N
 Created by Vishwamohan Singh Negi  
 For questions or suggestions, feel free to reach out:
 - [GitHub Profile](https://github.com/vishwamohansinghnegi)
-- [Email](vishwamohansinghnegi@gmail.com)
-- [LinkedIn](www.linkedin.com/in/vishwamohan-singh-negi-001b8a257)
+- Email : vishwamohansinghnegi@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/vishwamohan-singh-negi-001b8a257/)
